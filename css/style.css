@@ -26,3 +26,12 @@
   height: 100px;
   border-radius: 50%;
 }
+
+.rounding-image {
+  border-radius: 50%;
+  height: 120px;
+}
+
+.logo-size {
+  height: 30px;
+}
